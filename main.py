@@ -1,5 +1,5 @@
-from ui import start_menu
+from ui import interface
 
 
 if __name__ == '__main__':
-    start_menu()
+    interface()
